@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    display: block;
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    display: block;
+    margin: 10px auto;
+    padding: 5px 10px;
+  }
+  
+  #lista-contactos {
+    border: 1px solid #ccc;
+    padding: 10px;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .contacto {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .contacto h3 {
+    margin: 0;
+  }
+  
+  .contacto p {
+    margin: 0;
+    margin-bottom: 5px;
+  }
+  
+  .contacto button {
+    margin-right: 5px;
+  }
+  
